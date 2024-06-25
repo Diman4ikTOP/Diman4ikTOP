@@ -5,5 +5,5 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328"  />
+   <img src="https://lanyard.kyrie25.me/api/783974618704379904"  />
   </a>
