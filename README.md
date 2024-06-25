@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://egirl.ing/" >
-   <img src="https://lanyard.cnrad.dev/api/:783974618704379904"  />
+   [![Discord Presence](https://lanyard.cnrad.dev/api/:783974618704379904)](https://discord.com/users/:783974618704379904)  />
   </a>
     <br>
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
