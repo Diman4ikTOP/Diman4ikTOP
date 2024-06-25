@@ -26,22 +26,16 @@
 <li>
  <b>Name:</b> Dima</li>
 <li>
-<b>Fursona:</b> Snow Fox
-</li>
-<li>
 <b>Loves:</b> anime, osu, rhythm games
 </li>
 <li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>LastFM:</b> https://scrobble.egirl.ing
+<b>Gender:</b> Man
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Web Development, it sphere, Programming in different languages
 </li>
 <li>
-<b>Working @:</b> minecraft plugins
+<b>Working @:</b>minecraft plugins
 </li>
 <br><br><br>
 </div>
