@@ -26,7 +26,7 @@
 <li>
  <b>Name:</b> Dima</li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> anime, osu, rhythm games, music
 </li>
 <li>
 <b>Gender:</b> Man
