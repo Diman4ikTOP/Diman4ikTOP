@@ -35,7 +35,7 @@
 <b>Hobbys:</b> Tech Stuff, Web Development, it sphere, Programming in different languages
 </li>
 <li>
-<b>Working @:</b>minecraft plugins
+<b>@Working </b>minecraft plugins
 </li>
 <br><br><br>
 </div>
