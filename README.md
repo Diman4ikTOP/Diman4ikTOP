@@ -24,7 +24,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Sarah</li>
+ <b>Name:</b> Dima</li>
 <li>
 <b>Fursona:</b> Snow Fox
 </li>
@@ -38,10 +38,10 @@
 <b>LastFM:</b> https://scrobble.egirl.ing
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Tech Stuff, Web Development, it sphere, Programming in different languages
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Working @:</b> minecraft plugins
 </li>
 <br><br><br>
 </div>
