@@ -12,7 +12,7 @@
   <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
   <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
 <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-<p><a href="https://www.youtube.com/watch?v=YiHaIm1U-II">-𝐰𝐡𝐲𝐬𝐩𝐮𝐫𝐤𝐲, 𝐰𝐡𝐲𝐥𝐨𝐯𝐥𝐲 - какая из версий тебя? (𝐬𝐩𝐞𝐞𝐝 𝐮𝐩)</a><p>
+<p><a href="https://www.youtube.com/watch?v=YiHaIm1U-II">𝐰𝐡𝐲𝐬𝐩𝐮𝐫𝐤𝐲, 𝐰𝐡𝐲𝐥𝐨𝐯𝐥𝐲 - какая из версий тебя? (𝐬𝐩𝐞𝐞𝐝 𝐮𝐩)</a><p>
   
 </div>
     <div align="center">
