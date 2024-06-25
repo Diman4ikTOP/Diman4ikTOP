@@ -4,7 +4,6 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
-[![Discord Presence](https://lanyard.kyrie25.me/api/783974618704379904)](https://discord.com/users/783974618704379904)
    <img src=[![Discord Presence](https://lanyard.kyrie25.me/api/783974618704379904)](https://discord.com/users/783974618704379904) />
   </a>
     <br>
